@@ -1,4 +1,4 @@
-hello World! hello Git! 22222
+hello World! hello Git! 22222:
 hello World! hello Git! 33333
 hello World! hello Git!
 hello World! hello Git!
@@ -12,20 +12,5 @@ hello World! hello Git!
 hello World! hello Git!
 hello World! hello Git!
 hello World! hello Git!
+hello World! hello Git!	master test
 hello World! hello Git!
-hello World! hello Git!
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
